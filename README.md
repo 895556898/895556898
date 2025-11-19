@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 擅长vibe（划掉
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=895556898&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=895556898&layout=compact)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=895556898&show_icons=true&icon_color=57cc8a&text_color=e6edf3&bg_color=242930&hide_title=true&border_color=0000&count_private=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=895556898&layout=compact&border_color=0000&text_color=e6edf3&bg_color=242930"/>
